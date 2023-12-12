@@ -1,4 +1,4 @@
-# Bruno's manager README
+# Antonios's manager README
 
 **It's all about the team. We exist to serve them!**
 
@@ -9,7 +9,7 @@
 The primary motivation behind creating this document is to establish a clear understanding of my management philosophy, expectations, and communication style. By sharing this information, I aim to:
 
 - Enhance transparency and trust between us.
-- Provide a reference point for our working relationship.
+- Provide a reference point for our working relationship. Complexity/depth/true DevOps starts here! 
 - Encourage open dialogue and feedback to foster continuous improvement.
 - Set the stage for a collaborative and supportive environment.
 - Writing and maintaining this document helps me refine my thoughts and hold myself accountable.
@@ -17,11 +17,11 @@ The primary motivation behind creating this document is to establish a clear und
 
 By outlining my approach and values, I hope to lay a solid foundation for our professional relationship, allowing us to work together efficiently and effectively in pursuit of our company goals.
 
-Please note that this document is not a substitute for personal interaction but a starting point for our professional relationship. We'll learn more about each other over time.
+Please note that this document is not a substitute for personal interaction! Only a starting point for our professional relationship. We'll learn more about each other over time.
 
 ## About Me
 
-Hello, I'm Bruno. I was born in Porto, Portugal, and have since lived in Lisbon and London. I'm a father to two wonderful children and a partner to a fantastic woman.
+Hello, I'm Antonio. I was born in Lisbon, Portugal, and have since lived mainly in Lisbon & London/around Cambridge. I'm a father of 1 wonderful children and a partner to a fantastic woman who is a scientist working with Stem Cells. A lot of her work is with Cells but translating complexity into a product that will reach market, so in many ways we describe ourselfs as an "Ops" family!
 
 Outside of work, my interests are diverse:
 
@@ -29,16 +29,17 @@ Outside of work, my interests are diverse:
 - Appreciating global cuisine
 - Connecting with people from various backgrounds
 - Watching TV series, films, and docuseries
-- Reading about technology, business, economics, and leadership
-- Admiring high-performance cars
-- Following sports like tennis, F1, and football (FCP and Chelsea FC fan)
+- Reading about technology, business, science and leadership
+- Admiring the universe around us
 - Taking rejuvenating walks
 - Spending quality time with family and friends
-- Coaching my son's football team
+- Coaching someone
+- Receiving coaching from someone (Yeah, I like self development, it's a bit like coding the brain! I'm always in the lookout for moving things around!
+  
+I'm known for being a trusted advisor, happy, servant, coacher, humane, logical, frank, ethical, strategic, cultured, business, global, pragmatic, a doer, "the coach".
+I'm always eager to learn and grow, both personally and professionally. 
 
-I'm known for being curious, forthright, trustworthy, pragmatic, a doer, "the coach", helpful, strategic, hard-working, and caring. I'm always eager to learn and grow, both personally and professionally.
-
-## My Role as an Engineering Manager
+## My Role as an Engineering Manager (beware that altough this might not be my "named role"... I either approach challanges from either an engineering or architecth minset. Logical approaches are what's needed to evaluate, manage and change complexity. For this, we use science as our language; meaning that we must strive for accuracy, transparency, and certainty when communicating; and above all let ego's out of the room. They are an hindrance to the quality of our output and our overal communication skills. We all serve! 
 
 As an Engineering Manager, my role is multi-faceted and revolves around a few key responsibilities:
 
@@ -52,7 +53,7 @@ As an Engineering Manager, my role is multi-faceted and revolves around a few ke
 
 - **Influencing Decisions:** I influence decisions that benefit our team and the organisation. Remember that a company is not a sum of all departments but a product of everyone's interactions. We can only win together.
 
-- **Setting Context and Expected Outcomes:** I aim to provide clear context and expected outcomes so everyone understands what our company's needs and priorities. I believe in the power of alignment and shared understanding to achieve or exceed our goals.
+- **Setting Context and Expected Outcomes:** I aim to provide clear context and expected outcomes so everyone understands what are our company's needs and priorities. I believe deeply in the power of alignment and shared understanding to achieve or exceed our goals.
 
 - **Fostering Ownership:** I encourage everyone to feel like a business owner. I believe in empowering you to make decisions and take ownership of your work.
 
@@ -72,11 +73,11 @@ In my view, an exceptional culture, is where everyone feels valued, heard, empow
 
 - **Open Communication:** Creating an environment where everyone feels comfortable expressing their ideas, concerns, and feedback.
 
-- **Collaboration:** Emphasising teamwork and cooperation, working together towards shared objectives. Great things are rarely achieved in isolation.
+- **Collaboration:** Emphasising teamwork and cooperation, working together towards shared objectives. Great things are very rarely achieved in isolation.
 
 - **Innovation:** Passionately pursuing technology and innovation, pushing boundaries and thinking creatively.
 
-- **Continuous Learning:** Promoting lifelong learning, seeking new knowledge, skills, and experiences.
+- **Continuous Learning:** Promoting lifelong learning, seeking new knowledge, skills and experiences.
 
 - **Ownership:** Taking responsibility for our actions, decisions, and outcomes, learning from our mistakes.
 
@@ -86,7 +87,7 @@ In my view, an exceptional culture, is where everyone feels valued, heard, empow
 
 - **Alignment with Company Vision, Mission, and Core Values:** Staying honest at all time to the company vision, mission, and core values.
 
-Remember, culture is not something that can be imposed from the top down. It's something that we all impact through our actions and interactions.
+Remember, culture is not something that can be imposed from the top down. It's something that we all impact and develop through our actions and interactions.
 
 ## Working with Me
 
@@ -94,19 +95,19 @@ Remember, culture is not something that can be imposed from the top down. It's s
 
 At work, my approach has a unique combination of a few quirks:
 
-- **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect responses during these times.
+- **Always-On:** I'm known for being all-in and always-on. I don't expect you to follow my example, and I recommend that you don't. That's just how I work best, and it's usually hard for me to disconnect from a state of flow. Please note that you might receive messages from me over the weekends, late at night, or on holidays. It's just me being ON all the time. Please know that I don't expect responses during these times! 
 
-- **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy at times. I know it can be annoying, so please call it out. I'm always trying to improve.
+- **Communication:** I'm committed to open communication. I encourage open dialogue and am always available for discussion. However, my communication skills tend to fade out as I get tired. I can also be a bit lengthy/wordy at times. I know it can be annoying, so please call it out. I'm always trying to improve.
 
 - **Accountability:** I hold myself accountable for my actions and decisions and expect the same from my team. I believe in taking responsibility and learning from our mistakes.
 
 - **Bias Towards Action:** I'm heavily biased towards action. I believe in starting with small and quick iterations to prove (or disprove) our assumptions quickly (fail-fast to learn-fast) and make visible progress over lengthy strategic discussions. I have very little patience for apathy and indifference. If something is going on, let me know ASAP.
 
-- **Passion for Technology and Innovation:** I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company, and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
+- **Passion for Technology and Innovation:** I enjoy staying up-to-date with the latest trends and advancements in the tech industry. I'm always looking for ways to apply these innovations to improve our work, company and customer experience. Expect me to share all sorts of content, but don't assume I expect you to change the course of action or strategy.
 
 - **Zero Tolerance for Blaming and Politics:** I have zero tolerance for blaming and politics. I believe in focusing on solutions, not pointing fingers. I strive to foster a culture of trust and respect where we can have open and honest discussions without fear of blame or political games. I put a high premium on developing solutions and taking accountability for the outcomes.
 
-- **Curiosity:** I'm naturally curious and tend to ask many questions. This is not a sign of doubt or mistrust but rather a way for me to understand things more deeply and explore all aspects of a situation or problem.
+- **Curiosity:** I'm naturally curious and tend to ask many questions. This is not a sign of doubt or mistrust, but rather a way for me to understand things more deeply and explore all aspects of a situation or problem. In some ways, I prefer to be a "sniper" of solutions; and while you may see me seating iddle for a long time, that's just discipline. Before you know it, I'll be moving to the next target, but target importance, classification, etc are all part of the work. 
 
 - **Challenging the Status Quo:** Expect me to challenge the status quo. I'm not one to accept "this is how we've always done it" as a reason not to innovate or improve. I believe in questioning assumptions and exploring new ways of doing things.
 
@@ -116,7 +117,7 @@ At work, my approach has a unique combination of a few quirks:
 
 I don't expect real-time responses, but I do expect timely follow-ups on our discussions. I value quick acknowledgements like "got it" or "on it" to confirm progress.
 
-I often send FYI for your information, which typically doesn't require a response unless you have a simple question.
+When I send a FYI (for your information), it typically doesn't require a response, but you're free to engage.  
 
 If you're CC'ed, a reply isn't expected, but feel free to respond if you wish. Just be mindful that you're joining an ongoing conversation.
 
@@ -180,7 +181,7 @@ As a manager in technology, one is required to manage it.
 
 - **Value Completed Work:** We value work completed over work in progress. Software that is operational and accessible to the customer is more valuable than software still in development. We take immense pride in 'what' and 'how' we deliver software. Quality Assurance, Security, Operations, engineering culture, and outcomes are everyone's responsibility.
 
-- **Embrace Failure and Experimentation:** We encourage intentional 'failing-fast' and experimentation within a controlled and acceptable scope. This approach accelerates learning, and we ensure that these learnings are shared across the team. However, we never compromise our customers' trust and maintain a zero-tolerance policy for blame.
+- **Embrace Failure and Experimentation:** We encourage intentional 'failing-fast' and experimentation within a controlled and acceptable scope. This approach accelerates learning, and we ensure that these learnings are shared across the team. However, we never compromise our customers' trust, safety and maintain a zero-tolerance policy for blame.
 
 - **Tactical Moves and Tech Debt Management:** We acknowledge that tactical moves and tech debt management are necessary at times as a means to serve our customers better. However, we maintain a high threshold for approving such moves.
 
@@ -198,10 +199,10 @@ I love to work through problems together if it's helpful to you.
 
 I'm often busy, but I'm always available when needed. Here's how to best reach me based on the urgency:
 
-- **Emergency:** Find me in the office -> Call me -> Text me -> Slack me -> Email me. Please do whatever you need to get my attention.
-- **Urgent Matter:** Text me -> Slack me -> Email me.
-- **Important Matter:** Slack me -> Email me.
-- **Business as Usual (BAU):** Email me -> Slack me -> Book a meeting.
+- **Emergency:** Find me in the office -> Call me -> Text me -> Teams me -> Email me. Please do whatever you need to get my attention.
+- **Urgent Matter:** Text me -> Teams me -> Email me.
+- **Important Matter:** Teams me -> Email me.
+- **Business as Usual (BAU):** Email me -> Teams me -> Book a meeting.
 
 If you propose a meeting or discussion, please initiate by finding a time in my diary and scheduling the appointment. If I suggest a discussion, I will do the same. Avoid saying, "let's discuss" without following up promptly with a proposed time.
 
@@ -209,6 +210,7 @@ If you propose a meeting or discussion, please initiate by finding a time in my 
 
 Our 1:1 meetings are weekly, lasting 30-45 min. These sessions are primarily your time and agenda. We'll use them to discuss your well-being, needs, personnel issues, professional development, and performance reviews. We can also explore strategic questions, seek advice, provide context, and exchange feedback.
 
+[this might depend on the relationship/type of company/etc. Please revert to your direct line manager if there's questions; but usually I'm brought in to solve widespread challanges, launch new iniciatives and/or gather a group to go after Transformation.] 
 We'll document performance formally every quarter and hold a 1:1 retrospective to improve our discussions. We'll maintain a private online document to compile notes from these meetings, aiding retrospectives and tracking progress.
 
 **Tips for Effective 1:1s:**
@@ -313,7 +315,7 @@ Held on Monday mornings, these meetings are a team effort, not solely mine. They
 
 #### Monthly Staff Afternoon
 
-Once a month, we have a 4-hour meeting on a Friday afternoon. We check in as a team, conduct a monthly retrospective, groom and prioritise the team backlog, and discuss any significant topics. The chairperson manages the agenda and meeting minutes; pre-reads are shared at least one day in advance. On-site attendance is mandatory.
+Once a month, we have a 4-hour meeting on a Friday afternoon. We check in as a team, conduct a monthly retrospective, groom and prioritise the team backlog, and discuss any significant topics. The chairperson manages the agenda and meeting minutes; pre-reads are shared at least one day in advance. Attendance is mandatory.
 
 #### Quarterly Off-site
 
@@ -499,7 +501,7 @@ We all have those moments where we have a gut reaction: "I don't like this", "It
 
 #### Learning from your decisions
 
-I suggest you conduct a retrospective for every significant successful or failed decision. Better when you include stakeholders. It's a powerful tool to learn.
+I suggest you conduct a retrospective for every significant successful or failed decision. Works even better when we include stakeholders. It's a powerful tool to learn.
 
 ### Communication
 
@@ -593,14 +595,6 @@ source: <https://en.wikipedia.org/wiki/Servant_leadership>
 Unreasonable leaders demand, commit, or rally people into popular but unrealistic requests/quests, usually around the company resources or ways of working. This is not advisable and will bring us both a great deal of pain that I would like to avoid. If you can't gauge if the request is unrealistic, ask first. It will save us both a great deal of pain. [Use me as a resource for sound judgement](#me-as-a-resource)
 
 I expect you to set expectations and context for everyone in your team so that we achieve a robust alignment and the temptation to embody an Unreasonable leader is low.
-
-### Technology
-
-So, you're a manager. It means you don't need to be technical anymore. You're an **Engineering** Manager. I don't expect you to code, but I expect you to be a technologist and influence technical decisions. You must understand what your people do to earn their trust and provide them with what they need to succeed. If you're a team lead, you might be required to write code 20% of your time.
-
-> Dive Deep
-> Leaders operate at all levels, stay connected to the details, audit frequently, and are sceptical when metrics and anecdotes differ. No task is beneath them.
-> [Amazon's 14 leadership principles](https://www.amazon.jobs/en/principles)
 
 #### Pragmatic Craftsmanship
 
